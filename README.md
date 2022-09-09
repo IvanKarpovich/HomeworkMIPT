@@ -1,2 +1,3 @@
 # HomeworkMIPT
-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
+Климов Глеб Б06-002
+AdvancedPython
